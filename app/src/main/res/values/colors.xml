@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d4ae9</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cor_fundo_versiculo_dia">#b5a744</color>
+    <color name="fundo_generico">#f4f4ee</color>
+    <color name="itens_action_bar">#050505</color>
+    <color name="cor_celula_grid_selecionada">#3eecff</color>
+    <color name="fundo_azul_claro">#44b7e7</color>
+</resources>

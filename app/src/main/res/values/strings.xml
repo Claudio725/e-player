@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">e-Player_Android</string>
+    <string name="fundotela">Fundo de tela</string>
+    <string name="btnCompartilhar">Compartilhar</string>
+    <string name="share">Compartilhar</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="textoFundotela">Fundos de tela:</string>
+    <string name="textoStream">Endereço do stream:</string>
+    <string name="textoBotaoConfirmar">Confirmar</string>
+    <string name="imagemradio">imagem da radio</string>
+    <string name="Stream">Stream pessoal</string>
+</resources>
